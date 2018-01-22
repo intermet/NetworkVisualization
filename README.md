@@ -1,7 +1,7 @@
 # Visualization and analysis of complex networks.
 
 <div style="text-align:center">
-	<img src="images/3elt.PNG"/>
+	<img src="images/3elt.PNG" width=0.5/>
 </div>
 
 
